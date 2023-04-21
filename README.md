@@ -1,5 +1,5 @@
 # Programowanie-GUI
-W tym repozytorium zawarte są projekty ze studiów z GUI
+W tym repo znajdują się moje pierwsze kroki z technologiami poniżej, które wprowadzają mnie do tworzenia GUI
 Technologie:
 - JavaFX
 - Swing
